@@ -1,0 +1,9 @@
+version: 1
+type: gradle
+usePlugin: true
+resolver:
+  repo: jcenter
+  serverID: art_v
+deployer:
+  repo: gradle-local
+  serverID: art_v
